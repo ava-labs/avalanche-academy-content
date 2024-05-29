@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+
+        "title": "Avalanche Fundamentals",
+        "description": "This course gives you a high level overview of Avalanche Consensus, Subnets and VMs. If you’re new to Avalanche or want to refresh your knowledge and fill in some gaps, this course is right for you.",
+        "duration": 1.5,
+
+        "content-dir": "avalanche-fundamentals",
+        "url": "avalanche-fundamentals",
+        "position": 1
+    },
+    {
+        "id": 2,
+
+        "title": "Multi-Chain Architecture",
+        "description": "This course dives deeper into the multi-chain architecture. It will teach you how to create Subnets with the Avalanche CLI and what their benefits are.",
+        "duration": 2,
+
+        "content-dir": "multichain-architecture",
+        "url": "multichain-architecture",
+        "position": 2
+    },
+    {
+        "id": 3,
+
+        "title": "Cross-Chain dApps with Teleporter",
+        "description": "...",
+        "duration": 4,
+
+        "content-dir": "cross-chain-dapps-with-teleporter",
+        "url": "teleporter",
+        "position": 3
+    },
+    {
+        "id": 4,
+
+        "title": "Token Bridging with Teleporter",
+        "description": "...",
+        "duration": 2,
+
+        "content-dir": "token-bridging-with-teleporter",
+        "url": "teleporter-token-bridge",
+        "position": 4
+    },
+    {
+        "id": 5,
+
+        "title": "Customizing the EVM",
+        "description": "...",
+        "duration": 2,
+
+        "content-dir": "customizing-the-evm",
+        "url": "customize-evm",
+        "position": 5
+    }
+]
